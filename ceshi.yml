@@ -1,0 +1,105 @@
+[custom]
+;不要随意改变关键字，否则会导致出错
+;acl4SSR规则
+
+;去广告：不支持
+;自动测速：支持
+;微软分流：支持
+;苹果分流：支持
+;增强中国IP段：支持
+;增强国外GFW：支持📲 Telegram
+;设置规则标志位
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ZekTy/Clash-personal-rules-steam-full/refs/heads/main/Special.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BaiDu.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/PROXY.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/SSH.list
+ruleset=🌀 TikTok,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/tk.list
+ruleset=🌀 TikTok,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/tk-1.list
+ruleset=🌀 ST-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/ST-YM.list
+ruleset=🌀 ST-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/ST-1.list
+ruleset=🌀 ST-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/ST-2.list
+ruleset=🌀 ST-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/ST-3.list
+ruleset=🌀 CB-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CB-YM.list
+ruleset=🌀 CB-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CB.list
+ruleset=🌀 CB-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CB-1.list
+ruleset=🌀 CB-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CB-2.list
+ruleset=🌀 CB-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CB-3-SGP-JP.list
+ruleset=🌀 CB-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CB-IPV6.list
+ruleset=🌀 CAMS-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/CAMS-MD.list
+ruleset=🌀 BG-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/BG-LIVE.list
+ruleset=🌀 LJ-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/LJ-MD.list
+ruleset=🌀 LJ-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/LJ-1.list
+ruleset=🌀 LJ-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/LJ-2.list
+ruleset=🌀 LJ-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/LJ-3.list
+ruleset=🌀 LJ-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/LJ-4.list
+
+ruleset=🌀 STM-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/STM-MD.list
+ruleset=🌀 STM-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/STM-1.list
+ruleset=🌀 STM-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/STM-2.list
+ruleset=🌀 SPT-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/SPT-1.list
+ruleset=🌀 GoogleTranslate,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/GoogleTranslate.list
+ruleset=🌀 GoogleTranslate,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/love.list
+ruleset=🌀 GoogleTranslate,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/GoooleFanYi.list
+ruleset=🌀 GoogleTranslate,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/sub-1.list
+ruleset=🌀 BigoLive-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/bigo-ip.list
+ruleset=🌀 BigoLive-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/bigo-1.list
+ruleset=🌀 BigoLive-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/Bigo.list
+ruleset=🌀 BigoLive-MD,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/bigo-2-live.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/zhilian.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/SteamCN.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ZekTy/Clash-personal-rules-steam-full/refs/heads/main/my.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
+ruleset=🍎 Apple,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
+ruleset=🍎 Apple,https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/iphone.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
+ruleset=🌀 国外流量,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list
+ruleset=🎯 全球直连,[]GEOIP,CN
+ruleset=🌀 国外流量,[]FINAL
+;设置规则标志位
+
+;设置分组标志位
+custom_proxy_group=🌀 A｜招主播➕V：CS-2019-1  ｜ 承善传媒`select`[]DIRECT
+custom_proxy_group=🌐 国际互联`select`.*`[]DIRECT
+custom_proxy_group=🇨🇳 CN大陆`select`.*`[]DIRECT
+custom_proxy_group=🌀 TikTok`select`.🌐 国际互联`[]DIRECT
+custom_proxy_group=🌀 CB-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 ST-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 CAMS-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 BG-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 SPT-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 MFC-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 LJ-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 BigoLive-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 STM-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 UU-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 UP-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 CSDA-MD`select`.*`[]DIRECT
+custom_proxy_group=🌀 GoogleTranslate`select`.*`[]DIRECT
+custom_proxy_group=🌀 国外流量`select`.*`[]DIRECT
+
+custom_proxy_group=🍎 Apple`select`.*`[]DIRECT
+custom_proxy_group=🎯 全球直连`select`[]DIRECT
+;设置分组标志位
+
+enable_rule_generator=true
+overwrite_original_rules=true
+
+clash_rule_base=https://raw.githubusercontent.com/gyz767/ZhuBo/refs/heads/main/clash-no-dns.yml
+;luck
